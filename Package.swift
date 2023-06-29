@@ -17,7 +17,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SygicUbiKit",
-            url: "%LINK_TO_MAVEN%",
-            checksum: "%CHECKSUM%")
+            url: "https://link.us",
+            checksum: "ABCDEFGHIJKLMN")
     ]
 )
